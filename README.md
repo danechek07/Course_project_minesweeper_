@@ -95,8 +95,13 @@ repos/
 - **Параметры**: `f`, `out_r`, `out_c`.
 
 ## 4) Контрольные примеры
-Сгенерированы 3 поля и проведена проверка соответствия правилам:
-<img width="531" height="455" alt="image" src="https://github.com/user-attachments/assets/20e0a285-421b-4eae-953b-66d928010d79" />
+Было проведено несколько тестирований, вводные данные и результат представлены на сриншотах:
+<img width="716" height="314" alt="image" src="https://github.com/user-attachments/assets/f1878584-85e6-4f93-919b-06981d15a911" />
+<img width="881" height="354" alt="image" src="https://github.com/user-attachments/assets/8b1cfa8d-78b9-4a36-9f1a-f5952fda2c98" />
+<img width="571" height="493" alt="image" src="https://github.com/user-attachments/assets/6c30274a-4597-47ca-b5ed-def0a71c2628" />
+<img width="872" height="169" alt="image" src="https://github.com/user-attachments/assets/b9d60746-c0ac-48d2-ae9a-e3b1d103211a" />
+
+
 
 
 ## 5) Формат данных
